@@ -17,4 +17,4 @@ TOPIC must be the short name.
     gcppub -p my-project-id -s my-subscription-short-id -f data-received.json
 
 
-&copy 2021 ernestmicklei.com
+&copy; 2021 ernestmicklei.com MIT License.
