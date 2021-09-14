@@ -1,5 +1,7 @@
 # gcppub - extra tool for Google Cloud Pub/Sub
 
+# This repo is archived, please use https://github.com/emicklei/gcloudx instead.
+
 ## requirements
 
 Authenticated GCP user account with Pub/Sub permissions.
